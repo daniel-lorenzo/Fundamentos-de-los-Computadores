@@ -1,6 +1,8 @@
 # Fundamentos de los Computadores Digitales
 Intro C programming
 
+[Notion Link](https://pitch-work-5c1.notion.site/Fundamentos-de-los-Computadores-Digitales-a6ffbd6b85794b03b79ea6e98f9535c4)
+
 - Introducción
 - Unidad 1 - Fundamentos de los computadores digitales
 - Unidad 2 - Introducción al Lenguaje C
