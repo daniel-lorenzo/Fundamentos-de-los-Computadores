@@ -13,7 +13,7 @@ NOTA: El algoritmo debe estar estructurado de la siguiente forma
 
 **Diagrama de flujo:**
 
-![Untitled](Ejercicio%201%20be5cdba8cd92494cb69636821363242f/Untitled.png)
+![ej_1](img/ej_1.png)
 
 **Resolución en pseudocódigo (pseint):**
 
