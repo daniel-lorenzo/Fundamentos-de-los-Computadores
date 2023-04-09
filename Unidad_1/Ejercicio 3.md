@@ -6,7 +6,7 @@ Realizar un algoritmo en DF que, al ingresar dos números por teclado, realice l
 
 **Diagrama de flujo:**
 
-![Untitled](Ejercicio%203%203cd38642c89d498e9b212d28238b56bf/Untitled.png)
+![ej_3](img/ej_3.png)
 
 **Resolución en pseint:**
 

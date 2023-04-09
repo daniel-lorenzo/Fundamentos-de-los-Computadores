@@ -28,4 +28,4 @@ FinProceso
 
 **Diagrama de flujo:**
 
-![Untitled](Ejercicio%206%20bcd7d1e485f04115a18ac69a821bc716/Untitled.png)
+![ej_6](img/ej_6.png)

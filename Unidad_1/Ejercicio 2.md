@@ -6,7 +6,7 @@ Realizar un algoritmo en diagrama de flujo (DF) para restar dos números.
 
 **Diagrama de flujo:**
 
-![Untitled](Ejercicio%202%205e226a22a8da466090a1d92e5ffb5ed5/Untitled.png)
+![ej_2](img/ej_2.png)
 
 **Resolución en pseint:**
 
