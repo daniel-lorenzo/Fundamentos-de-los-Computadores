@@ -1,3 +1,4 @@
+![MatrixCode](img/Matrix_Digital_rain_banner.gif)
 # Fundamentos de los Computadores Digitales
 Intro C programming
 
