@@ -14,6 +14,7 @@ int main()
     {
         printf("%d) %.2f\n",i,*(calif+i));
     }
+    free(calif);
 
     return 0;
 }
